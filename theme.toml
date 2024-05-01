@@ -1,0 +1,15 @@
+name = "Landing Page Builder"
+license = ""
+licenselink = ""
+description = ""
+
+homepage = ""
+demosite = ""
+
+tags = ["landing", "docs", "blog", "responsive", "minimal", "light", "dark", "multilingual", "dark mode", "tailwind", "company", "gallery"]
+features = ["secure", "fast", "search", "dark mode", "widgets"]
+
+# If the theme has a single author
+[author]
+  name = ""
+  homepage = ""

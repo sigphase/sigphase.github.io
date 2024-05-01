@@ -1,0 +1,50 @@
+# SITE SETUP
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# Appearance
+appearance:
+  mode: light
+  color: indigo
+
+# SEO
+marketing:
+  seo:
+    site_type: Company Site
+    local_business_type: ''
+    org_name: 'Sigphase'
+    description: 'Sigphase, AI powered remote monotoring'
+    twitter: ''
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+    plausible: ''
+    fathom: ''
+    pirsch: ''
+  verification:
+    google: ''
+    baidu: ''
+
+# Site header
+header:
+  navbar:
+    enable: true
+    blox: "navbar"
+    align: "center"
+    fixed_to_top: true
+    logo:
+      text: ""
+      # Logo filename in `assets/media/` folder
+      filename: "logo.svg"
+    button:
+      enable: true
+      text: "Sigphase Shop"
+      url: "https://sigphase.com"
+    show_search: true
+    show_theme_chooser: true
+
+# Localization
+locale:
+  date_format: 'Jan 2, 2014'
+  time_format: '3:04 PM'
