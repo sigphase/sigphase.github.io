@@ -37,4 +37,7 @@ The road ice hazard is defined by the conditions and situations where icing caus
 
 In essence, the road ice hazard is primarily highway-speed travel during light winter precipitation events, when driver awareness is low and visual indicators are few. The majority of deaths and serious injuries occur during these conditions. To narrow the definition of the hazard even further, we can cite the phenomenon of high-speed oversteer. Oversteer is the primary cause of loss of vehicle control at high speeds, and most fatal accidents begin with one or more vehicles entering an oversteer condition. Oversteer at highway speeds is nearly impossible to correct and leads to a vehicle spinning out, leaving the roadway, rolling over and/or impacting oncoming traffic.
 
+Work Cited
+Icy Road Safety :: Prepare for road icing: weather's worst hazard, https://icyroadsafety.com/. Accessed 2 May 2024.
+
 
