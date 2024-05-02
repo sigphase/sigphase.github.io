@@ -10,7 +10,6 @@ image:
 
 authors:
   - admin
-  - T
 
 tags:
   - Ice detection
@@ -18,12 +17,7 @@ tags:
   - Monitoring
 ---
 
-Welcome 👋
-
 ## Overview
 Road icing disaster early warning and monitoring
 
-## License
-
-Copyright 2014-present 
 
