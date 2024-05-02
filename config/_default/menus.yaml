@@ -15,10 +15,13 @@ main:
   - parent: Products
     name: Sensors
     url: sensors/
+  - name: Solutions
+    url: solutions/
+    weight: 30
   - name: Customake
     url: customake/
-    weight: 30
+    weight: 40
   - name: About us
     url: about-us/
-    weight: 40
+    weight: 50
 
