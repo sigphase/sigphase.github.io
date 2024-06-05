@@ -33,6 +33,7 @@ Built-in temperature and humidity sensor.
 
 Built-in gas sensor.
 
+#  'Image credit: [**Unsplash**](https://unsplash.com)'
 
 ![Image alt](images/my-image.jpg)
 ![Image alt](images/my-image1.jpg)
