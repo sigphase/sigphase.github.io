@@ -22,6 +22,7 @@ tags:
 Ultra low power consumption,super long time last,stand alone with huge battery built in mini IOT device
 
 ![Image alt](images/my-image.jpg)
+![Image alt](images/my-image1.jpg)
 
 
 
