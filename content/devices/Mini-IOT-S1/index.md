@@ -17,7 +17,7 @@ tags:
   - Mini-IOT-S1
 ---
 
-## Overview
+##
 
 Ultra low power consumption,super long time last,stand alone with huge battery built in mini IOT device
 
