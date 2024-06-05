@@ -19,15 +19,19 @@ tags:
 
 ##
 
-Ultra low power consumption,super long time last,stand alone with huge battery built in mini IOT device
+Ultra low power consumption,super long time last,stand alone with huge battery built in mini IOT device.
 
-Built-in high and low temperature resistant large battery
+With 4G and NB-IOT, Wifi and Bluetooth, easy configuration for all kinds of situation.
 
-Measure
+Built-in high and low temperature resistant large battery.
 
-振动 1200HZ 1MHZ Sram SD
-温湿度 
-气体
+Large SRAM and SD card for data storage and convenient IoT configuration.
+
+Built-in vibration sensor, parameters: 1200HZ 1MHZ.
+
+Built-in temperature and humidity sensor.
+
+Built-in gas sensor.
 
 
 ![Image alt](images/my-image.jpg)
