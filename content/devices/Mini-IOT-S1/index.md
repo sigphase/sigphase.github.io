@@ -20,8 +20,11 @@ tags:
 ##
 
 Ultra low power consumption,super long time last,stand alone with huge battery built in mini IOT device
-Bat
-Measure:
+
+Built-in high and low temperature resistant large battery
+
+Measure
+
 振动 1200HZ 1MHZ Sram SD
 温湿度 
 气体
