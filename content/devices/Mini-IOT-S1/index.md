@@ -1,6 +1,6 @@
 ---
 title: Mini-IOT-S1, Mini IoT device
-summary: Ultra low power consumption,super long time last,stand alone with huge battery built in mini IOT device
+summary:
 date: 2024-06-05
 
 # Featured image
@@ -18,6 +18,8 @@ tags:
 ---
 
 ## Overview
+
+Ultra low power consumption,super long time last,stand alone with huge battery built in mini IOT device
 
 
 
