@@ -28,8 +28,5 @@ And a temperature sensor with an analog output, uses the transfer function to de
 Mini-IOT-S1 Compatible with all kinds of Temperature Sensor
 Fully customizable with Mini-IOT-S1.
 
-## License
-
-Copyright 2014-present 
 
 
