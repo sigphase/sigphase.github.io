@@ -33,6 +33,8 @@ Built-in temperature and humidity sensor.
 
 Built-in gas sensor.
 
+Ethernet APL optional
+
 ![Image alt](images/my-image.jpg)
 ![Image alt](images/my-image1.jpg)
 
