@@ -27,7 +27,7 @@ A temperature sensor is a device, typically, a thermocouple or resistance temper
 There are four main temperature sensors used today in modern-day electronics: Negative temperature coefficient (NTC) thermistors, resistance temperature detectors (RTDs), thermocouples, and semiconductor-based integrated (IC) sensors.
 And a temperature sensor with an analog output, uses the transfer function to determine the temperature. A sensor with a digital output, does not require the system to know or program the internal analog transfer function to determine the temperature.
 
-Mini-IOT-S1 Compatible with all kinds of Temperature Sensor
+Mini-IOT-S1 Compatible with all kinds of Temperature Sensor.
 
 It's Fully customizable with Mini-IOT-S1.
 
