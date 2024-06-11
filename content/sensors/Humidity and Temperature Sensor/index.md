@@ -25,7 +25,7 @@ Whatever it is, you know that maintaining a relative humidity (RH) between 40–
 
 Mini-IOT-S1 Compatible with all kinds of Humidity and Temperature Sensor. It can help you remotely monitor RH with high accuracy (depends on the sensor you required), temperature, and dew point in facilities or enclosures. If the humidity exceeds your specified limits, these scientific-grade sensors instantly alert you via text, email, or call for swift correction.
 
-It's Fully customizable with Mini-IOT-S1.
+It's Fully customizable with Mini-IOT-S1. Suitable for your own server or any other cloud such and Azure or AWS. All data only can access by you.
 
 
 

@@ -23,6 +23,8 @@ Ultra low power consumption,super long time last,stand alone with huge battery b
 
 With 4G and NB-IOT, Wifi and Bluetooth, easy configuration for all kinds of situation.
 
+Suitable for your own server or any other cloud such and Azure or AWS. All data only can access by you.
+
 Built-in high and low temperature resistant large battery.
 
 Large SRAM and SD card for data storage and convenient IoT configuration.

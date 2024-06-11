@@ -29,7 +29,7 @@ And a temperature sensor with an analog output, uses the transfer function to de
 
 Mini-IOT-S1 Compatible with all kinds of Temperature Sensor.
 
-It's Fully customizable with Mini-IOT-S1.
+It's Fully customizable with Mini-IOT-S1. Suitable for your own server or any other cloud such and Azure or AWS. All data only can access by you.
 
 
 
